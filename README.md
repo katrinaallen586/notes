@@ -19,3 +19,6 @@ Another important aspect of programming is understanding the basics of the langu
 
 # 2023-11-19
 - "Today's programming wisdom is to focus on writing clean, maintainable code that is easy to understand and test. This means using clear and descriptive variable names, minimizing the use of global variables, and breaking complex problems into smaller, more manageable functions. Additionally, it's important to document your code thoroughly, including comments that explain what each section does and why. By following these principles, you'll create code that is not only functional but also easy to modify and debug in the future."
+
+# 2023-11-20
+- "Keep it simple, stupid!"

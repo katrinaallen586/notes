@@ -87,3 +87,8 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 4. Stay active in online programming communities like Stack Overflow, GitHub, Reddit, Quora, et al. By participating in discussions and sharing your expertise, you can gain a better understanding of the industry and the challenges faced by other developers. Additionally, this can help build your reputation as an expert in YOUR field and lead you to potential job offers.   
 5. Learn to collaborate effectively with others. Programming often involves working in teams, so it’s essential to develop good communication and teamwork skills. Use tools like Slack, Trello, Jira, to manage projects and collaborate with team members.    
 6. Keep an open mind and be willing to adapt to change. The tech world is constantly evolving, which means you may need to learning new skills or adapt your current skills to fit new requirements. Embrace change and continue to grow your skillset.
+
+# 2023-12-07
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's often better to write clear, simple code first and optimize only when profiling reveals specific performance bottlenecks.

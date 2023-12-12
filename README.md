@@ -114,3 +114,6 @@ Next, use tools and resources to help manage your workflow. For example, using v
 4. Participate in open source projects: Contributing to open-source projects is a great way to improve your programming skills, while also gaining experience working with others in a team environment.   
 5. Seek feedback and advice: Reach out to your peers and mentors to get their thoughts on your work and receive constructive feedback. It'll help improve both your coding skills and problem-solving abilities.    
 6. Practice good time management: Stay organized and focused on what matters most. Allocate time to learn new skills while still completing your current projects.
+
+# 2023-12-12
+- "Keep it simple, stupid!"

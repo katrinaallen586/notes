@@ -117,3 +117,17 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 # 2023-12-12
 - "Keep it simple, stupid!"
+
+# 2023-12-13
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded as needed. To achieve this, follow these best practices:
+
+1. Use clear variable and function names that describe their purpose and usage.
+2. Organize code into logical sections and use comments to explain complex or critical parts. 
+3. Follow coding conventions and standards to ensure consistency and compatibility with other codebases.  
+4. Minimize the use of hardcoded values and rely on parameters and input data instead.   
+5. Avoid global variables and keep local scope as much as possible.    
+6. Write modular and reusable code by using functions and classes.     
+7. Test and validate code regularly to identify and fix potential errors and issues.      
+8. Learn and adapt to new programming languages, frameworks, tools, libraries, etc., to stay up- to-date and efficient.       
+9. Communicate effectively with team members and stakeholders to understand their needs and expectations and deliver high-quality work.        
+ 10. Continuously learn and grow as a programmer by reading, attending workshops, conferences, participating in open-source projects, discussing with peers, practicing, experimenting, failing, learning from mistakes, improving, adapting, growing, evolving, maturing, developing, advancing, succeeding, achieving, excelling, dominating, mastering, owning, controlling, commanding, leading, guiding, influencing, inspiring, motivating, empowering, encouraging, supporting, helping, serving, working, building, creating, designing, inventing.

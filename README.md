@@ -131,3 +131,10 @@ Next, use tools and resources to help manage your workflow. For example, using v
 8. Learn and adapt to new programming languages, frameworks, tools, libraries, etc., to stay up- to-date and efficient.       
 9. Communicate effectively with team members and stakeholders to understand their needs and expectations and deliver high-quality work.        
  10. Continuously learn and grow as a programmer by reading, attending workshops, conferences, participating in open-source projects, discussing with peers, practicing, experimenting, failing, learning from mistakes, improving, adapting, growing, evolving, maturing, developing, advancing, succeeding, achieving, excelling, dominating, mastering, owning, controlling, commanding, leading, guiding, influencing, inspiring, motivating, empowering, encouraging, supporting, helping, serving, working, building, creating, designing, inventing.
+
+# 2023-12-14
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the principles and concepts behind programming. That means understanding data structures, algorithms, computer architecture, operating systems, etc. All of these areas will play a role in your success as a programmer. Additionally, being able to communicate effectively with others is crucial, whether it be with colleagues, clients, or the public. Good communication skills can help you explain your ideas, solve problems, debate ideas with peers, negotiate with clients and more. 
+ 学习编程语言和工具的新版本，并不断更新您的技能。
+了解编程背后的原理和概念，如数据结构、算法、计算机架构和操作系统。 有效沟通，无论是与同事、客户还是公众。

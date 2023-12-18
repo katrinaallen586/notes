@@ -147,3 +147,6 @@ To be successful in programming, it' s essential to have a deep understanding of
 
 # 2023-12-17
 - Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It means that trying to optimize code too early in the development process can lead to unnecessary complexity, bugs, and wasted time. It's better to write clear, simple code first and optimize only when necessary, based on profiling and performance measurements.
+
+# 2023-12-18
+- Today's programming wisdom is to write code that is easy to read, understand, and modify. This means using clear and descriptive variable names, writing concise and well-structured functions, and commenting your code thoroughly. Remember that you are not only writing code for the computer to execute, but also for other human beings to read and maintain. Writing clean and readable code will save time and reduce errors in the long run, making you a more efficient and effective programmer.

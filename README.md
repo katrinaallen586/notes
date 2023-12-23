@@ -164,3 +164,10 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2023-12-22
 - "Keep it simple, stupid!"
+
+# 2023-12-23
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the most critical aspects of the project first. You can use various techniques, such as the MoSCoW method (Must have, Should have and Could have), to categorize your task list. 
+ 2. Plan ahead: Planning is crucial for any project. It helps you organize your thoughts, set goals, allocate resources, schedule time, etc. When it comes to programming, planning can include creating a blueprint for your project or writing a detailed design document. Planning ahead will ensure you have a clear understanding of what you need to accomplish and can avoid unnecessary delays.  
+3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital for success. Organizing code helps to make it more readable, maintainable,and easier to debug. Follow best practices, like using version control systems (like Git), organizing code into logical folders and files, following naming conventions, using comments, documenting your code,etc. These practices will make your life as a developer much easier and more enjoyable.

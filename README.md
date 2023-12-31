@@ -196,3 +196,10 @@ This emphasizes the importance of keeping code simple and avoiding unnecessary c
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. Then, break down larger projects into smaller, manageable tasks. By doing this, you can better track your progress and make adjustments as needed.
 
 Remember to stay flexible and adaptable. As you work, things may change, so be prepared to adjust your plan. Use version control and documentation to keep track of your code and project. Also, don't be afraid to ask for help or advice from others. Learning from experienced developers can make you a better programmer.
+
+# 2023-12-31
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them accordingly. 
+ 其次，提前计划。在开始编程之前，确保你了解项目的需求和目标。这将帮助你在编写代码时避免不必要的错误和更改。使用版本控制系统（如Git）可以帮助你跟踪代码的更改，以便在需要时轻松回滚到之前的版本。
+ 最后，保持组织。一个整洁、有组织的代码库可以提高你的工作效率，减少错误，并使团队合作更加顺利。遵循编程最佳实践，如使用有意义的命名、添加注释和遵循代码风格指南，可以帮助你的代码更容易理解和维护。同时，定期审查和重构代码可以确保你的项目保持高效和可扩展。

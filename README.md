@@ -257,3 +257,8 @@ Secondly, planning ahead is crucial. Before starting a project, think about the 
 
 # 2024-01-11
 - Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you will become a more valuable asset to your team or company, ensuring your success in the ever-changing world of technology.
+
+# 2024-01-12
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clean, readable, and maintainable code first; optimize only when necessary, based on data and profiling." 
+
+This quote emphasizes that early stage over-optimization can lead to complex, hard-to-understand code, which in turn can cause more problems than it solves. It reminds programmers to prioritize clarity and functionality initially, and to use empirical evidence to guide optimization efforts later in the development process.

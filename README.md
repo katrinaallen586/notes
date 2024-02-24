@@ -477,3 +477,13 @@ In practice, this means adhering to principles like DRY (Don't Repeat Yourself),
 
 # 2024-02-23
 - "Keep it simple, stupid!"
+
+# 2024-02-24
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These principles promote code that's maintainable, scalable, and adaptable to change—qualities essential for long-term software success." 
+
+In essence:
+1. **Single Responsibility Principle**: A class should have only one reason to change, doing one job really well.
+2. **Open-Closed Principle**: Software entities (classes, modules, functions) should be open for extension but closed for modification.
+3. **Liskov Substitution Principle**: Derived classes must be substitutable for their base classes without affecting correctness.
+4. **Interface Segregation Principle**: Clients should not be forced to depend on methods they do not use; make fine-grained interfaces.
+5. **Dependency Inversion Principle**: High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions.
